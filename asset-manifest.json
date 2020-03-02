@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/german-articles-quiz/static/css/main.506e3ad0.chunk.css",
+    "main.js": "/german-articles-quiz/static/js/main.7b52d1a5.chunk.js",
+    "main.js.map": "/german-articles-quiz/static/js/main.7b52d1a5.chunk.js.map",
+    "runtime-main.js": "/german-articles-quiz/static/js/runtime-main.1466c8a8.js",
+    "runtime-main.js.map": "/german-articles-quiz/static/js/runtime-main.1466c8a8.js.map",
+    "static/js/2.27e614e6.chunk.js": "/german-articles-quiz/static/js/2.27e614e6.chunk.js",
+    "static/js/2.27e614e6.chunk.js.map": "/german-articles-quiz/static/js/2.27e614e6.chunk.js.map",
+    "index.html": "/german-articles-quiz/index.html",
+    "precache-manifest.e98bff9e720c490ce5dc4397d4457f12.js": "/german-articles-quiz/precache-manifest.e98bff9e720c490ce5dc4397d4457f12.js",
+    "service-worker.js": "/german-articles-quiz/service-worker.js",
+    "static/css/main.506e3ad0.chunk.css.map": "/german-articles-quiz/static/css/main.506e3ad0.chunk.css.map",
+    "static/js/2.27e614e6.chunk.js.LICENSE.txt": "/german-articles-quiz/static/js/2.27e614e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1466c8a8.js",
+    "static/js/2.27e614e6.chunk.js",
+    "static/css/main.506e3ad0.chunk.css",
+    "static/js/main.7b52d1a5.chunk.js"
+  ]
+}
