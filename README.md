@@ -1,6 +1,6 @@
 https://jcwang111.github.io/german-articles-quiz/
 
-This is a small website I made using React.js that tests you on German noun genders!
+This is a small website I made using React.js that tests you on German noun genders.
 
 ### Reactjs
 
