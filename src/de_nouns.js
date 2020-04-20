@@ -1213,7 +1213,6 @@ das Hotel
 die Stunde
 das Haus
 das Haus
-die Hausfaru
 die Hausarbeit
 der Mensch
 der Hunger
